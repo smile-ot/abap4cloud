@@ -1,3 +1,3 @@
   METHOD if_oo_adt_classrun~main.
-    out->write( 'Hello world again!' ).
+    out->write( 'Hello git!' ).
   ENDMETHOD.
